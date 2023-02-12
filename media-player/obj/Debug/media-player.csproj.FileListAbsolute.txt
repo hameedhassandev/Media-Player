@@ -1,0 +1,16 @@
+D:\csharpcode\media-player\media-player\bin\Debug\media-player.exe.config
+D:\csharpcode\media-player\media-player\bin\Debug\media-player.exe
+D:\csharpcode\media-player\media-player\bin\Debug\media-player.pdb
+D:\csharpcode\media-player\media-player\bin\Debug\Interop.WMPLib.dll
+D:\csharpcode\media-player\media-player\bin\Debug\AxInterop.WMPLib.dll
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.csproj.AssemblyReference.cache
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.csproj.SuggestedBindingRedirects.cache
+D:\csharpcode\media-player\media-player\obj\Debug\Interop.WMPLib.dll
+D:\csharpcode\media-player\media-player\obj\Debug\AxInterop.WMPLib.dll
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.csproj.ResolveComReference.cache
+D:\csharpcode\media-player\media-player\obj\Debug\media_player.Form1.resources
+D:\csharpcode\media-player\media-player\obj\Debug\media_player.Properties.Resources.resources
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.csproj.GenerateResource.cache
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.csproj.CoreCompileInputs.cache
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.exe
+D:\csharpcode\media-player\media-player\obj\Debug\media-player.pdb
